@@ -1,2 +1,6 @@
 # DataStructure
-Types of Data Structure in Python
+There are four types of data structure
+-- List
+-- Tuple
+-- Dictionary
+-- Set
